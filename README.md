@@ -4,6 +4,10 @@ Learning the basics of the MERN stack by building a basic To-Do Application usin
 
 https://limitless-garden-84113.herokuapp.com/
 
+Explanation of different Dependencies used by the app:
+
+
 Flow Chart:
 
 ![Flow chart](12121.jpg)
+
