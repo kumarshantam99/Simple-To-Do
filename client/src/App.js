@@ -14,10 +14,15 @@ function App() {
     <Provider store={store}>
       <div className="App">
         <AppNavbar />
-        <Container>
-          <ItemModal />
-          <List />
-        </Container>
+        <div className="Container">
+          <Container >
+            <ItemModal />
+            <List />
+          </Container>
+
+        </div>
+        
+        
 
       </div>
 

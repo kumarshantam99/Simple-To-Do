@@ -1,0 +1,37 @@
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting env: {}
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {}
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {'mode': 'offline'}
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_setup.py:_flush():68] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E8991552B0>
+2020-11-09 21:04:56,701 INFO    MainThread:4144 [wandb_init.py:_log_setup():302] Logging user logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210456-1q6eqblj\logs\debug.log
+2020-11-09 21:04:56,702 INFO    MainThread:4144 [wandb_init.py:_log_setup():303] Logging internal logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210456-1q6eqblj\logs\debug-internal.log
+2020-11-09 21:04:56,703 INFO    MainThread:4144 [wandb_run.py:finish():910] finishing run visualize-models/j6pah2px
+2020-11-09 21:04:56,703 INFO    MainThread:4144 [wandb_run.py:_atexit_cleanup():1186] got exitcode: 0
+2020-11-09 21:04:56,703 INFO    MainThread:4144 [wandb_run.py:_restore():1158] restore
+2020-11-09 21:04:56,708 INFO    MainThread:4144 [wandb_run.py:_wait_for_finish():1300] got exit ret: uuid: "5cec6d11aef44bf19588d1dde54830f9"
+
+2020-11-09 21:04:58,710 INFO    MainThread:4144 [wandb_run.py:_wait_for_finish():1300] got exit ret: uuid: "b97dd9db794b4b3cbe65b4c970519251"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+  }
+}
+
+2020-11-09 21:05:01,426 INFO    MainThread:4144 [wandb_run.py:_console_start():1213] atexit reg
+2020-11-09 21:05:01,427 INFO    MainThread:4144 [wandb_run.py:_redirect():1083] redirect: SettingsConsole.WRAP
+2020-11-09 21:05:01,427 INFO    MainThread:4144 [wandb_run.py:_redirect():1114] Wrapping output streams.
+2020-11-09 21:05:01,427 INFO    MainThread:4144 [wandb_run.py:_redirect():1130] Redirects installed.
+2020-11-09 21:05:01,432 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:05:30,867 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting env: {}
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {}
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {'mode': 'offline'}
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_setup.py:_flush():68] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E8991552B0>
+2020-11-09 21:05:30,886 INFO    MainThread:4144 [wandb_init.py:_log_setup():302] Logging user logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210530-m3b6bibz\logs\debug.log
+2020-11-09 21:05:30,887 INFO    MainThread:4144 [wandb_init.py:_log_setup():303] Logging internal logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210530-m3b6bibz\logs\debug-internal.log
+2020-11-09 21:05:30,888 INFO    MainThread:4144 [wandb_run.py:finish():910] finishing run visualize-predictions/1q6eqblj
+2020-11-09 21:05:30,888 INFO    MainThread:4144 [wandb_init.py:_jupyter_teardown():233] cleaning up jupyter logic
+2020-11-09 21:05:30,888 INFO    MainThread:4144 [jupyter.py:save_history():204] not saving jupyter history

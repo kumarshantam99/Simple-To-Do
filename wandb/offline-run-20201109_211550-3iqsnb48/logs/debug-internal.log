@@ -1,0 +1,28 @@
+2020-11-09 21:15:55,088 INFO    MainThread:13588 [internal.py:wandb_internal():63] W&B internal server running at pid: 13588
+2020-11-09 21:15:55,091 INFO    WriterThread:13588 [datastore.py:open_for_write():76] open: c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_211550-3iqsnb48\run-3iqsnb48.wandb
+2020-11-09 21:15:55,092 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: run_start
+2020-11-09 21:15:55,482 DEBUG   HandlerThread:13588 [util.py:is_cygwin_git():315] Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+2020-11-09 21:15:55,486 DEBUG   HandlerThread:13588 [cmd.py:execute():718] Popen(['git', 'cat-file', '--batch-check'], cwd=c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do, universal_newlines=False, shell=None, istream=<valid stream>)
+2020-11-09 21:15:55,561 DEBUG   HandlerThread:13588 [cmd.py:execute():718] Popen(['git', 'rev-parse', '--show-toplevel'], cwd=c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do, universal_newlines=False, shell=None, istream=None)
+2020-11-09 21:15:55,630 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:15:55,630 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:15:58,429 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:15:58,429 INFO    HandlerThread:13588 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:15:58,431 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:15:58,431 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:16:39,141 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:16:39,141 INFO    HandlerThread:13588 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:16:39,142 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:16:39,142 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:16:41,525 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:16:41,525 INFO    HandlerThread:13588 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:16:41,526 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:16:41,526 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:16:41,730 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:16:41,730 INFO    HandlerThread:13588 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:16:41,732 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:16:41,732 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:16:44,509 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:16:44,509 INFO    HandlerThread:13588 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:16:44,511 DEBUG   HandlerThread:13588 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:16:44,511 INFO    HandlerThread:13588 [handler.py:handle_request_pause():226] stopping system metrics thread

@@ -1,0 +1,43 @@
+2020-11-09 21:01:23,619 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting env: {}
+2020-11-09 21:01:23,619 INFO    MainThread:4144 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-11-09 21:01:23,619 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {}
+2020-11-09 21:01:23,619 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {'mode': 'offline'}
+2020-11-09 21:01:23,619 INFO    MainThread:4144 [wandb_setup.py:_flush():68] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E8991552B0>
+2020-11-09 21:01:23,620 INFO    MainThread:4144 [wandb_init.py:_log_setup():302] Logging user logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210123-1ymnc7pk\logs\debug.log
+2020-11-09 21:01:23,620 INFO    MainThread:4144 [wandb_init.py:_log_setup():303] Logging internal logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210123-1ymnc7pk\logs\debug-internal.log
+2020-11-09 21:01:25,876 INFO    MainThread:4144 [wandb_run.py:_console_start():1213] atexit reg
+2020-11-09 21:01:25,876 INFO    MainThread:4144 [wandb_run.py:_redirect():1083] redirect: SettingsConsole.WRAP
+2020-11-09 21:01:25,877 INFO    MainThread:4144 [wandb_run.py:_redirect():1114] Wrapping output streams.
+2020-11-09 21:01:25,877 INFO    MainThread:4144 [wandb_run.py:_redirect():1130] Redirects installed.
+2020-11-09 21:01:25,887 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,893 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,895 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,899 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,901 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,905 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,907 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,912 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,914 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,918 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,919 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,923 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,924 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,929 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,931 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,936 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,938 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,943 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,945 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,950 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,952 INFO    MainThread:4144 [wandb_init.py:_pause_backend():223] pausing backend
+2020-11-09 21:01:25,958 INFO    MainThread:4144 [wandb_init.py:_resume_backend():228] resuming backend
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting env: {}
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {}
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_setup.py:_flush():68] setting login settings: {'mode': 'offline'}
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_setup.py:_flush():68] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E8991552B0>
+2020-11-09 21:01:25,976 INFO    MainThread:4144 [wandb_init.py:_log_setup():302] Logging user logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210125-j6pah2px\logs\debug.log
+2020-11-09 21:01:25,977 INFO    MainThread:4144 [wandb_init.py:_log_setup():303] Logging internal logs to c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210125-j6pah2px\logs\debug-internal.log
+2020-11-09 21:01:25,978 INFO    MainThread:4144 [wandb_run.py:finish():910] finishing run visualize-models/1ymnc7pk
+2020-11-09 21:01:25,979 INFO    MainThread:4144 [wandb_init.py:_jupyter_teardown():233] cleaning up jupyter logic
+2020-11-09 21:01:25,979 INFO    MainThread:4144 [jupyter.py:save_history():204] not saving jupyter history

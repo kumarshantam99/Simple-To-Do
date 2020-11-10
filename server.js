@@ -2,7 +2,7 @@ const express= require('express')
 const mongoose=require('mongoose')
 const bodyParser=require('body-parser') // used to print different API request responses.
 const path=require('path')
-const items=require('./routes/api/items')
+const config=require('config')
 
 const app=express()
 
@@ -13,7 +13,7 @@ app.use(bodyParser.json())
 
 //DB config
 
-const db=require('./config/keys').mongoURI
+const db=config.get('mongoURI')
 
 // Connect to MongoDB
 
@@ -23,7 +23,9 @@ mongoose
 .catch(err=>console.log(err))// otherwise print the error
 
 //Use routes
-app.use('/api/items',items)// whatever is directed to /api/items refer it to items
+app.use('/api/items',require('./routes/api/items'))// whatever is directed to /api/items refer it to items
+app.use('/api/users',require('./routes/api/users'))// users are directed to /api/users
+app.use('/api/auth',require('./routes/api/auth'))
 
 //Serve static assets, (the build folder) if in production
 

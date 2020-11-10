@@ -1,0 +1,92 @@
+2020-11-09 21:09:30,958 INFO    MainThread:18944 [internal.py:wandb_internal():63] W&B internal server running at pid: 18944
+2020-11-09 21:09:30,960 INFO    WriterThread:18944 [datastore.py:open_for_write():76] open: c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210926-1m7i0iwr\run-1m7i0iwr.wandb
+2020-11-09 21:09:30,961 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: run_start
+2020-11-09 21:09:31,353 DEBUG   HandlerThread:18944 [util.py:is_cygwin_git():315] Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+2020-11-09 21:09:31,357 DEBUG   HandlerThread:18944 [cmd.py:execute():718] Popen(['git', 'cat-file', '--batch-check'], cwd=c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do, universal_newlines=False, shell=None, istream=<valid stream>)
+2020-11-09 21:09:31,412 DEBUG   HandlerThread:18944 [cmd.py:execute():718] Popen(['git', 'rev-parse', '--show-toplevel'], cwd=c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do, universal_newlines=False, shell=None, istream=None)
+2020-11-09 21:09:31,484 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:09:31,484 INFO    HandlerThread:18944 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:09:31,532 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:09:31,532 INFO    HandlerThread:18944 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:09:31,534 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:09:31,534 INFO    HandlerThread:18944 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:09:45,650 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:09:45,651 INFO    HandlerThread:18944 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:09:45,653 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:09:45,653 INFO    HandlerThread:18944 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:15:28,797 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:15:28,797 INFO    HandlerThread:18944 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:15:28,799 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: pause
+2020-11-09 21:15:28,799 INFO    HandlerThread:18944 [handler.py:handle_request_pause():226] stopping system metrics thread
+2020-11-09 21:15:29,779 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: resume
+2020-11-09 21:15:29,779 INFO    HandlerThread:18944 [handler.py:handle_request_resume():221] starting system metrics thread
+2020-11-09 21:15:29,780 DEBUG   SenderThread:18944 [sender.py:send():90] send: exit
+2020-11-09 21:15:29,780 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: poll_exit
+2020-11-09 21:15:29,780 INFO    SenderThread:18944 [sender.py:send_exit():168] handling exit code: 0
+2020-11-09 21:15:29,780 INFO    SenderThread:18944 [sender.py:send_exit():176] send defer
+2020-11-09 21:15:29,780 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,781 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: poll_exit
+2020-11-09 21:15:29,781 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,781 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 0
+2020-11-09 21:15:29,781 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,781 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,781 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 0
+2020-11-09 21:15:29,781 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 1
+2020-11-09 21:15:29,782 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,782 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 1
+2020-11-09 21:15:29,845 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,846 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,846 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 1
+2020-11-09 21:15:29,846 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 2
+2020-11-09 21:15:29,847 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,847 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 2
+2020-11-09 21:15:29,847 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,847 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,847 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 2
+2020-11-09 21:15:29,847 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 3
+2020-11-09 21:15:29,847 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,847 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 3
+2020-11-09 21:15:29,847 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,847 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,847 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 3
+2020-11-09 21:15:29,847 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 4
+2020-11-09 21:15:29,848 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,848 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 4
+2020-11-09 21:15:29,848 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,848 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,848 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 4
+2020-11-09 21:15:29,848 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 5
+2020-11-09 21:15:29,848 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,848 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 5
+2020-11-09 21:15:29,848 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,848 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,848 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 5
+2020-11-09 21:15:29,848 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 6
+2020-11-09 21:15:29,848 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,849 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 6
+2020-11-09 21:15:29,849 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,849 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,849 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 6
+2020-11-09 21:15:29,849 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 7
+2020-11-09 21:15:29,849 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,849 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 7
+2020-11-09 21:15:29,849 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,849 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,849 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 7
+2020-11-09 21:15:29,849 INFO    SenderThread:18944 [sender.py:send_request_defer():221] send defer: 8
+2020-11-09 21:15:29,850 DEBUG   SenderThread:18944 [sender.py:send():90] send: final
+2020-11-09 21:15:29,850 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: defer
+2020-11-09 21:15:29,850 INFO    HandlerThread:18944 [handler.py:handle_request_defer():69] handle defer: 8
+2020-11-09 21:15:29,850 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:29,850 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: defer
+2020-11-09 21:15:29,850 INFO    SenderThread:18944 [sender.py:send_request_defer():185] handle sender defer: 8
+2020-11-09 21:15:31,782 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: poll_exit
+2020-11-09 21:15:31,782 DEBUG   SenderThread:18944 [sender.py:send():90] send: request
+2020-11-09 21:15:31,782 DEBUG   SenderThread:18944 [sender.py:send_request():99] send_request: poll_exit
+2020-11-09 21:15:31,784 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: get_summary
+2020-11-09 21:15:31,784 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: sampled_history
+2020-11-09 21:15:31,785 DEBUG   HandlerThread:18944 [handler.py:handle_request():55] handle_request: shutdown
+2020-11-09 21:15:31,785 INFO    HandlerThread:18944 [handler.py:finish():271] shutting down handler
+2020-11-09 21:15:31,851 INFO    WriterThread:18944 [datastore.py:close():257] close: c:\Users\kshan\Desktop\Web dev projects\MERN tutorial\Simple-To-Do\wandb\offline-run-20201109_210926-1m7i0iwr\run-1m7i0iwr.wandb
+2020-11-09 21:15:32,783 INFO    SenderThread:18944 [sender.py:finish():630] shutting down sender
+2020-11-09 21:15:32,783 INFO    MainThread:18944 [internal.py:handle_exit():138] Internal process exited
